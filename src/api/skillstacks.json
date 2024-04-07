@@ -1,0 +1,66 @@
+{
+    "front": [
+        {
+            "src": "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/html5.png",
+            "title": "HTML5",
+            "inner": "ウェブアクセシビリティと標準性を遵守し、セマンティックタグを使用してマークアップすることができます。"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/css3.png",
+            "title": "CSS3",
+            "inner": "position、displayを適切に使用して反応型ウェブを適用することができます。"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/ts.png",
+            "title": "TypeScript",
+            "inner": "Reactで基本提供されるProps用のTypeを理解し、使用することができます。"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/js.png",
+            "title": "JavaScript",
+            "inner": "JavaScriptの配列、メソッド、DOMを理解し、様々な状況に適用することができます。"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/sc.png",
+            "title": "STYLED-COMPONENTS",
+            "inner": "別途のコンポーネント化してインポートして使用できます。 MUI styled-compoentsも使用することができます。"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/reactjs.png",
+            "title": "React.js",
+            "inner": "React構造と様々なhookをよく知っており、汎用的で再利用可能なコンポーネントの設計ができます。"
+        }
+    ],
+    "tools": [
+        {
+            "src": "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/vscode.png",
+            "title": "VS Code",
+            "inner": "主に使用するコーディングツールで、コーディングに便利な拡張プログラムをインストールして使用しています。"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/figma.png",
+            "title": "Figma",
+            "inner": "デスクトップ、モバイルUI/UX試案を作業することができ、デバッグをうまく活用することができます。 "
+        },
+        {
+            "src": "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/photoshop.png",
+            "title": "PHOTOSHOP",
+            "inner": "マスク効果、レイヤー活用などを利用して多様なグラフィック要素を製作することができます。"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/illustrator.png",
+            "title": "Illustrator",
+            "inner": "ペンツールの活用とその他のツールを利用してベクトル形式のデザイン要素を製作することができます。"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/postman.png",
+            "title": "POSTMAN",
+            "inner": "Postmanを利用してサーバーにGET、POST要請をしてサーバーデバッグをすることができます。"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/git.png",
+            "title": "Git",
+            "inner": "commit、push、pull、cloneなどのgitコマンドを使用してレポジトリにアクセスすることができます。"
+        }
+    ]
+}
