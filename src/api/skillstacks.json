@@ -3,64 +3,64 @@
         {
             "src": "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/html5.png",
             "title": "HTML5",
-            "inner": "ウェブアクセシビリティと標準性を遵守し、セマンティックタグを使用してマークアップすることができます。"
+            "inner": "웹 접근성과 표준성을 준수하며 시맨틱 태그를 사용하여 마크업 할 수 있습니다."
         },
         {
             "src": "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/css3.png",
             "title": "CSS3",
-            "inner": "position、displayを適切に使用して反応型ウェブを適用することができます。"
+            "inner": "position, display 를 적절히 사용하여 반응형 웹을 적용할 수 있습니다."
         },
         {
             "src": "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/ts.png",
             "title": "TypeScript",
-            "inner": "Reactで基本提供されるProps用のTypeを理解し、使用することができます。"
+            "inner": "React에서 기본 제공되는 Props용 Type을 이해하고 사용할 수 있습니다"
         },
         {
             "src": "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/js.png",
             "title": "JavaScript",
-            "inner": "JavaScriptの配列、メソッド、DOMを理解し、様々な状況に適用することができます。"
+            "inner": "JavaScript의 배열, 메서드, DOM을 이해하고 다양한 상황에 적용할 수 있습니다."
         },
         {
             "src": "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/sc.png",
             "title": "STYLED-COMPONENTS",
-            "inner": "別途のコンポーネント化してインポートして使用できます。 MUI styled-compoentsも使用することができます。"
+            "inner": "별도의 component화하여 임포트하여 사용할 수 있습니다. MUI styled-compoents도 사용할 수 있습니다."
         },
         {
             "src": "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/reactjs.png",
             "title": "React.js",
-            "inner": "React構造と様々なhookをよく知っており、汎用的で再利用可能なコンポーネントの設計ができます。"
+            "inner": "React 구조와 다양한 hook을 잘 알고 있으며 범용적이고 재사용 가능한 컴포넌트 설계가 가능합니다."
         }
     ],
     "tools": [
         {
             "src": "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/vscode.png",
             "title": "VS Code",
-            "inner": "主に使用するコーディングツールで、コーディングに便利な拡張プログラムをインストールして使用しています。"
+            "inner": "주로 사용하는 코딩 툴로 코딩에 편리한 확장 프로그램을 설치하여 사용하고 있습니다."
         },
         {
             "src": "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/figma.png",
             "title": "Figma",
-            "inner": "デスクトップ、モバイルUI/UX試案を作業することができ、デバッグをうまく活用することができます。 "
+            "inner": "데스크탑, 모바일 UI/UX 시안을 작업할 수 있으며 디버깅을 잘 활용할 수 있습니다. "
         },
         {
             "src": "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/photoshop.png",
             "title": "PHOTOSHOP",
-            "inner": "マスク効果、レイヤー活用などを利用して多様なグラフィック要素を製作することができます。"
+            "inner": "마스크 효과, 레이어 활용 등을 이용하여 다양한 그래픽 요소를 제작할 수 있습니다."
         },
         {
             "src": "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/illustrator.png",
             "title": "Illustrator",
-            "inner": "ペンツールの活用とその他のツールを利用してベクトル形式のデザイン要素を製作することができます。"
+            "inner": "펜툴 활용과 기타 툴을 이용하여 벡터 형태의 디자인 요소를 제작할 수 있습니다."
         },
         {
             "src": "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/postman.png",
             "title": "POSTMAN",
-            "inner": "Postmanを利用してサーバーにGET、POST要請をしてサーバーデバッグをすることができます。"
+            "inner": "Postman을 이용하여 서버에 GET, POST 요청을 하여 서버 디버깅을 할 수 있습니다."
         },
         {
             "src": "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/git.png",
             "title": "Git",
-            "inner": "commit、push、pull、cloneなどのgitコマンドを使用してレポジトリにアクセスすることができます。"
+            "inner": "commit, push, pull, clone 등의 git 명령어를 사용하여 저장소에 접근할 수 있습니다."
         }
     ]
 }

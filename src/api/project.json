@@ -1,101 +1,63 @@
-{
-    "project1": {
+[
+    {
         "img": [
-            "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/project/pj1/pj1.png",
-            "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/project/pj1/pj2.png",
-            "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/project/pj1/pj3.png",
-            "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/project/pj1/pj4.png"
+            "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/project/pj1/pj1.png"
         ],
         "title": "PORTFOLIO",
-        "subtitle": "personal project",
-        "script": "ポートフォリオ用に作ったサイトで、今まで作ってきたプロジェクトを振り返るのに役立ちました",
-        "more": "ライブラリの使用を最大限自制しようと努力しましたが、時間の節約と性能最適化のためにAOSライブラリを使うようになりました。",
-        "hash": [
-            "#react",
-            "#Styled-components",
-            "#JSON",
+        "subtitle": "개인 프로젝트 / 프론트엔드",
+        "period": "2024.04.07 ~ 2024.04.14",
+        "stacks": [
+            "react",
+            "Styled-components",
+            "JSON",
             "AOS Library"
         ],
+        "projectIntroduction": "깔끔하고 심플하게를 목표로 제작하였습니다",
+        "functions": [],
         "siteUrl": "https://portfolio-jp-nu.vercel.app/",
         "githubUrl": "https://github.com/takoyakki0609/portfolio"
     },
-    "project2": {
-        "img": [
-            "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/project/pj2/pj2.png",
-            "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/project/pj2/pj3.png",
-            "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/project/pj2/pj4.png",
-            "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/project/pj2/pj1.png"
+    {
+        "img": "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/project/pj2/pj2.png",
+        "title": "BOOKER",
+        "subtitle": "팀 프로젝트 / 프론트엔드",
+        "period": "2024.01.02 ~ 2024.02.06",
+        "stacks": [
+            "React",
+            "TypeScript",
+            "Styled-components",
+            "알라딘API",
+            "카카오맵API",
+            "Recoil",
+            "express"
         ],
-        "title": "Boot Camp Final Project",
-        "subtitle": "team project",
-        "script": "reactを利用して作った4番目のプロジェクトです。\\n図書紹介サイト、中古本取引サイトなど一つのコンテンツのためにいちいち該当サイトを訪ねて入る煩わしさを減らし、本に対するすべてという主題で多様なコンテンツを私たちのサイトで全て利用できるように企画しました。",
-        "more": "",
-        "hash": [
-            "#react",
-            "postgreSQL",
-            "#express",
-            "#supabase",
-            "#Recoil"
+        "projectIntroduction": "책에 대한 모든 것이라는 주제로 다양한 컨텐츠를 사이트에서 이용할 수 있도록 기획하였습니다.",
+        "functions": [
+            "알라딘 api 활용을 위한 express서버 배포 및 도서소개",
+            "관리자와 유저간의 고객센터 실시간 채팅",
+            " HTML5 Geolocation를 활용한 현재 내위치 받아오기",
+            "위치 검색 시 주변의 독립서점 List를 보여주기 위한 PostgreSQL DB 작성 및 서버 배포",
+            "좋아요 기능",
+            "무한스크롤 / 페이지네이션"
         ],
-        "readMe": "https://www.notion.so/BOOKER-Trouble-shooting-33cf60e3b2ca4b96b8490fbcb31f2804?pvs=4",
+        "readMe": "https: //www.notion.so/BOOKER-Trouble-shooting-33cf60e3b2ca4b96b8490fbcb31f2804?pvs=4",
         "siteUrl": "https://book-er.site/",
         "githubUrl": "https://github.com/laluniax/booker"
     },
-    "project3": {
-        "img": [
-            "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/project/pj3/pj1.png",
-            "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/project/pj3/pj2.png",
-            "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/project/pj3/pj3.png",
-            "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/project/pj3/pj4.png"
+    {
+        "img": "https://github.com/takoyakki0609/portfolioJP/blob/main/src/assets/project/pj4/pj1.png?raw=true",
+        "title": "빽다방 아웃소싱 프로젝트",
+        "subtitle": "팀 프로젝트 / 프론트엔드",
+        "period": "2023.12.05 ~ 2023.12.11",
+        "projectIntroduction": "빽다방 소개 페이지의 아웃소싱을 받았다고 가정하고 만든 웹 페이지로, 반응형 디자인, 유튜브 홍보 영상, 매장 안내에 지도 추가, 선호도 조사 등을 추가하여 만든 웹 페이지",
+        "stacks": [
+            "react",
+            "React-Query",
+            "Styled-components",
+            "카카오맵 API"
         ],
-        "title": "one's specialty project",
-        "subtitle": "team project",
-        "script": "reactを利用して作った3番目のプロジェクトです。\\nアニメーションリストを出力して見せてくれるプロジェクトです。\\n reactとsupabase type scriptを使用しています。",
-        "more": "アニメーションAPIが別に存在しなかったため、アニメーションサイトからJSONデータを取得する方式を取り、CRUDをログインしなければならないようにしました。 サイトを補完中のため、配布されたURLは別途存在しません。",
-        "hash": [
-            "#react",
-            "#JSON-server",
-            "#Styled-components",
-            "#supabase"
-        ],
-        "siteUrl": [],
-        "githubUrl": "https://github.com/byeongtaek2023/anima"
-    },
-    "project4": {
-        "img": [
-            "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/project/pj4/pj1.png",
-            "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/project/pj4/pj2.png",
-            "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/project/pj4/pj3.png",
-            "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/project/pj4/pj4.png"
-        ],
-        "title": "outsourcing project",
-        "subtitle": "team project",
-        "script": "reactを利用して作った2番目のプロジェクトです。\\n韓国のコーヒーブランドである「ペッダバン」で紹介ページのアウトソーシングを受けたと仮定して作ったウェブページで、反応型デザイン、ユーチューブ広報映像、売り場案内に地図追加、選好度調査などを追加して作ったウェブページです。",
-        "more": "担当業務はカカオトーク地図APIでした。 カカオトークの地図APIを利用して現在位置座標を受け取り、該当位置周辺の「ペッダバン」店舗を見せたり、位置検索を通じて検索した位置周辺の「ペッダバン」を見せるようにしました。 ",
-        "hash": [
-            "#react",
-            "#React-Query",
-            "#Styled-components",
-            "#React Router Dom"
-        ],
+        "functions": [],
         "siteUrl": "https://nbc-outsourcing.vercel.app/",
         "githubUrl": "https://github.com/llafleek098/nbc-outsourcing"
-    },
-    "project5": {
-        "img": [
-            "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/project/pj5/pj1.png",
-            "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/project/pj5/pj2.png",
-            "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/project/pj5/pj3.png",
-            "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/project/pj5/pj4.png"
-        ],
-        "title": "news feed project",
-        "subtitle": "team project",
-        "script": "reactを利用して作った初めてのチームプロジェクトです。\\nfirebase + CRUDを利用して簡単なnews feedサイトを製作しvercelで配布しました。",
-        "hash": [
-            "#react",
-            "#firebase"
-        ],
-        "siteUrl": "https://team-project-flame.vercel.app/",
-        "githubUrl": "https://github.com/tjdsksro90/team-project"
     }
-}
+]
