@@ -3,6 +3,31 @@
         "img": [
             "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/project/pj1/pj1.png"
         ],
+        "title": "J-POP 노래방 검색",
+        "subtitle": "개인 프로젝트 / 프론트엔드",
+        "period": "2024.04.14 ~ 진행중",
+        "stacks": [
+            "react",
+            "Styled-components",
+            "JSON",
+            "TypeScript",
+            "Python",
+            "Recoil"
+        ],
+        "projectIntroduction": "노래방에서 J-POP 검색이 힘들어서 만들게 되었습니다.",
+        "functions": [
+            "Python을 사용한 웹 스크래핑 (JPOP 노래목록 스크래핑)",
+            "스크래핑 한 데이터를 JSON으로 화면에 렌더링",
+            "Recoil을 이용한 전역 상태 관리",
+            "메서드 함수를 활용한 데이터 필터"
+        ],
+        "siteUrl": "https://searchsubculture-song.vercel.app/",
+        "githubUrl": "https://github.com/takoyakki0609/SearchsubcultureSong"
+    },
+    {
+        "img": [
+            "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/project/pj1/pj1.png"
+        ],
         "title": "PORTFOLIO",
         "subtitle": "개인 프로젝트 / 프론트엔드",
         "period": "2024.04.07 ~ 2024.04.14",
