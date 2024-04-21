@@ -2,7 +2,7 @@ import * as St from "./about.styled";
 import profile from "../../assets/img_1.jpg";
 
 const About = () => {
-  const tag = ["#안되면_되게하라", "#긍정적", "#강한_의지력"];
+  const tag = ["#안되면_될때까지", "#긍정적", "#강한_의지력"];
   return (
     <St.Container>
       <St.AboutWrapper>
@@ -16,10 +16,11 @@ const About = () => {
           })}
         </St.TagWrapper>
         <St.AboutText>
-          코딩을 즐기는 개발자 김지예입니다.
+          몰입을 즐기는 개발자 김지예입니다.
           <br />
-          저는 조직과 사람의 성장을 최우선적으로 생각하며 새로운 기술의 습득을
-          두려워하지 않습니다.
+          사이버한국외국어대학교 일본어학과 졸업 3.57 / 4.5
+          <br />
+          JLPT N2 / 컴퓨터그래픽스운용기능사 취득
         </St.AboutText>
         <St.InterviewWrapper>
           <St.InterviewTitle>Interview</St.InterviewTitle>

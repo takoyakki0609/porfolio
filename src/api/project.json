@@ -1,7 +1,7 @@
 [
     {
         "img": [
-            "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/project/pj1/pj1.png"
+            "https://raw.githubusercontent.com/takoyakki0609/porfolio/main/src/assets/subcultureSearch.png"
         ],
         "title": "J-POP 노래방 검색",
         "subtitle": "개인 프로젝트 / 프론트엔드",
@@ -38,7 +38,9 @@
             "AOS Library"
         ],
         "projectIntroduction": "깔끔하고 심플하게를 목표로 제작하였습니다",
-        "functions": [],
+        "functions": [
+            "project 부분 JSON로 작성 후 UI로 렌더링"
+        ],
         "siteUrl": "https://portfolio-jp-nu.vercel.app/",
         "githubUrl": "https://github.com/takoyakki0609/portfolio"
     },
@@ -60,7 +62,7 @@
         "functions": [
             "알라딘 api 활용을 위한 express서버 배포 및 도서소개",
             "관리자와 유저간의 고객센터 실시간 채팅",
-            " HTML5 Geolocation를 활용한 현재 내위치 받아오기",
+            "HTML5 Geolocation를 활용한 현재 내위치 받아오기",
             "위치 검색 시 주변의 독립서점 List를 보여주기 위한 PostgreSQL DB 작성 및 서버 배포",
             "좋아요 기능",
             "무한스크롤 / 페이지네이션"
@@ -81,7 +83,11 @@
             "Styled-components",
             "카카오맵 API"
         ],
-        "functions": [],
+        "functions": [
+            "HTML5 Geolocation를 활용한 현재 내위치 받아오기",
+            "위치검색 시 해당 위치 주변의 빽다방 리스트 출력",
+            "검색 시 보여지는 UI CSS 스타일링"
+        ],
         "siteUrl": "https://nbc-outsourcing.vercel.app/",
         "githubUrl": "https://github.com/llafleek098/nbc-outsourcing"
     }
