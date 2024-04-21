@@ -26,18 +26,18 @@
     },
     {
         "img": [
-            "https://raw.githubusercontent.com/takoyakki0609/portfolio/main/src/assets/project/pj1/pj1.png"
+            "https://raw.githubusercontent.com/takoyakki0609/porfolio/main/src/assets/portfolio.png"
         ],
         "title": "PORTFOLIO",
         "subtitle": "개인 프로젝트 / 프론트엔드",
-        "period": "2024.04.07 ~ 2024.04.14",
+        "period": "2024.04.07 ~ 진행중",
         "stacks": [
             "react",
             "Styled-components",
             "JSON",
             "AOS Library"
         ],
-        "projectIntroduction": "깔끔하고 심플하게를 목표로 제작하였습니다",
+        "projectIntroduction": "깔끔하고 심플하게를 목표로 제작하였습니다.",
         "functions": [
             "project 부분 JSON로 작성 후 UI로 렌더링"
         ],

@@ -39,7 +39,7 @@ export const ProfilePicture = styled.img`
 export const AboutText = styled.div`
   margin-top: 2rem;
   text-align: center;
-  font-size: 1rem;
+  font-size: 1.1rem;
   font-weight: 400;
   line-height: 1.6;
 `;
