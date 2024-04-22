@@ -9,7 +9,10 @@ const Footer = () => {
           EMAIL : <Link to="jiyekim0415@gmail.com">jiyekim0415@gmail.com</Link>
         </St.Contact>
         <St.Contact>
-          GITHUB : <Link to="">https://github.com/takoyakki0609</Link>
+          GITHUB :{" "}
+          <Link to="https://github.com/takoyakki0609">
+            https://github.com/takoyakki0609
+          </Link>
         </St.Contact>
       </St.ContactWrapper>
       Copyright 2024. JIYE. All rights reserved.

@@ -4,11 +4,17 @@ export const Container = styled.section`
   background-color: #f5f5f0;
   position: relative;
   padding: 2.5rem;
+  @media (min-width: 375px) and (max-width: 767px) {
+    padding: 1rem;
+  }
 `;
 export const ProjectWrapper = styled.div`
   max-width: 1200px;
   margin: 0 auto;
   padding: 2rem;
+  @media (min-width: 375px) and (max-width: 767px) {
+    padding: 1rem;
+  }
 `;
 
 export const Title = styled.h2`
@@ -28,6 +34,10 @@ export const Project = styled.div`
   gap: 1.2rem;
 
   margin: 2rem 0;
+  @media (min-width: 375px) and (max-width: 767px) {
+    display: flex;
+    flex-direction: column-reverse;
+  }
 `;
 export const SubTitle = styled.h3`
   padding-bottom: 6rem;
@@ -46,11 +56,17 @@ export const StackWrapper = styled.ul`
   display: flex;
   justify-content: center;
   margin: 0.5rem;
+  @media (min-width: 375px) and (max-width: 767px) {
+    align-items: center;
+  }
 `;
 export const Stack = styled.li`
   color: #fca311;
   font-weight: 700;
   padding: 0 0.3rem;
+  @media (min-width: 375px) and (max-width: 767px) {
+    font-size: 0.8rem;
+  }
 `;
 export const ProjectIntroduction = styled.div`
   padding-bottom: 1rem;
@@ -60,13 +76,24 @@ export const ProjectIntroduction = styled.div`
 export const FunctionWrapper = styled.div`
   display: grid;
   grid-template-columns: 0.5fr 1fr;
+  @media (min-width: 375px) and (max-width: 767px) {
+    display: flex;
+    flex-direction: column;
+  }
 `;
-export const FunctionTitle = styled.p``;
+export const FunctionTitle = styled.p`
+  @media (min-width: 375px) and (max-width: 767px) {
+    margin-bottom: 1rem;
+  }
+`;
 export const FunctionList = styled.ul``;
 export const Function = styled.li`
   text-align: left;
   list-style: disc;
   line-height: 1.2rem;
+  @media (min-width: 375px) and (max-width: 767px) {
+    list-style: none;
+  }
 `;
 export const ReadMeWrapper = styled.div`
   display: flex;

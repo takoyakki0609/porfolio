@@ -12,6 +12,7 @@ const hue = keyframes`
 export const Container = styled.section`
   background-color: #f5f5f0;
   height: 100vh;
+  width: 100%;
   position: relative;
   display: flex;
   justify-content: center;
@@ -31,6 +32,10 @@ export const Frontend = styled.div`
   animation: ${hue} 10s infinite linear;
   font-size: 9.1rem;
   font-weight: 800;
+
+  @media (min-width: 375px) and (max-width: 767px) {
+    font-size: 2.8rem;
+  }
 `;
 export const PortFolio = styled.div`
   margin-top: 1rem;
@@ -38,4 +43,7 @@ export const PortFolio = styled.div`
   color: #fca311;
   letter-spacing: 1.2vw;
   font-weight: 900;
+  @media (min-width: 375px) and (max-width: 767px) {
+    font-size: 1rem;
+  }
 `;

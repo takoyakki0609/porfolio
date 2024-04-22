@@ -9,6 +9,9 @@ export const Container = styled.section`
   padding: 2.5rem;
   position: relative;
   z-index: 999;
+  @media (min-width: 375px) and (max-width: 767px) {
+    padding: 1rem;
+  }
 `;
 export const AboutWrapper = styled.div`
   max-width: 1200px;
@@ -23,9 +26,17 @@ export const TagWrapper = styled.div`
   font-weight: 700;
   font-size: 1.2rem;
 `;
-export const Tags = styled.p``;
+export const Tags = styled.p`
+  font-size: 1rem;
+`;
 export const About = styled.h2`
   font-size: 3.75rem;
+  @media (min-width: 375px) and (max-width: 767px) {
+    text-align: center;
+    font-size: 2.5rem;
+
+    margin-bottom: 1rem;
+  }
 `;
 export const ProfileWrapper = styled.div`
   display: flex;
@@ -42,6 +53,9 @@ export const AboutText = styled.div`
   font-size: 1.1rem;
   font-weight: 400;
   line-height: 1.6;
+  @media (min-width: 375px) and (max-width: 767px) {
+    font-size: 1rem;
+  }
 `;
 export const InterviewWrapper = styled.div``;
 export const InterviewTitle = styled.h3`
