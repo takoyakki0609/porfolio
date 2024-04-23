@@ -20,6 +20,7 @@ export const Container = styled.section`
 `;
 export const TitleWrapper = styled.div`
   max-width: 1200px;
+  width: 100%;
   margin: 0 auto;
   text-align: center;
   position: fixed;

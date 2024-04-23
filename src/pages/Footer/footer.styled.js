@@ -5,6 +5,7 @@ export const Container = styled.section`
   text-align: center;
   color: #f5f5f0;
   padding: 2.5rem;
+  width: 100%;
 `;
 
 export const ContactWrapper = styled.ul`
